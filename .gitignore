@@ -1,0 +1,29 @@
+
+---
+
+### ✅ `.gitignore` – basic for a front-end project:
+
+```gitignore
+# Logs
+*.log
+
+# Mac system files
+.DS_Store
+
+# node modules (if used later)
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment config
+.env
+.env.local
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Misc
+*.swp
